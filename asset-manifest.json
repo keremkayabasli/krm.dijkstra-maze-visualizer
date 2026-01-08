@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/krm.dijkstra-maze-visualizer/static/css/main.d003240b.css",
+    "main.js": "/krm.dijkstra-maze-visualizer/static/js/main.2814a0b7.js",
+    "index.html": "/krm.dijkstra-maze-visualizer/index.html",
+    "main.d003240b.css.map": "/krm.dijkstra-maze-visualizer/static/css/main.d003240b.css.map",
+    "main.2814a0b7.js.map": "/krm.dijkstra-maze-visualizer/static/js/main.2814a0b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d003240b.css",
+    "static/js/main.2814a0b7.js"
+  ]
+}
